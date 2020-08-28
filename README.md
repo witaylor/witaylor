@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm a software engineer from the UK 🇬🇧, and create things for the web. I've worked as a backend engineer, but I am also becoming more familiar with frontend technologies, such as React.js.
+
 😄 Pronouns: _he/him_
 
 #### 📫 Get in touch
