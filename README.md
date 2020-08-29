@@ -17,4 +17,4 @@ My main focus right now is improving my personal portfolio site. You can see how
 
 #### 🌱 What I'm learning
 
-Golang, while continuing to improve my front-end skills (mainly React.js).
+I'm diving more into Spring, with a focus on security and authentication, while continuing to improve my front-end skills (mainly React.js).
