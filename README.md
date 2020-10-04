@@ -13,8 +13,8 @@ I'm a software engineer from the UK 🇬🇧, and create things for the web. I'v
 
 #### 🔭 What I'm working on
 
-My main focus right now is improving my personal portfolio site. You can see how I'm getting on at willtaylor.codes. Soon, I'll be returning to the University of Bath to complete my degree.
+I'm back at university, so right now my main focus is studying for my final year. On the side, I'm working on improving my personal site - you can see how I'm getting on at [willtaylor.codes](willtaylor.codes).
 
 #### 🌱 What I'm learning
 
-I'm diving more into Spring, with a focus on security and authentication, while continuing to improve my front-end skills (mainly React.js).
+At university, I'm currently studying safety-critical systems, networking and parallel computing, and planning my dissertation. My main focus outside of my studies is improving my front-end skills, particularly React.js.
